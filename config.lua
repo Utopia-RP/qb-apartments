@@ -1,6 +1,3 @@
-Config = {}
-
-Config.UseTarget = GetConvar('UseTarget', 'false') == 'false'
 Apartments = {}
 Apartments.Starting = true
 Apartments.SpawnOffset = 30
